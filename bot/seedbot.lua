@@ -373,7 +373,7 @@ returns group link
 !owner
 returns group owner id
 
-!setowner [id]
+!setowner [238886119]
 Will set id as owner
 
 !setflood [value]
