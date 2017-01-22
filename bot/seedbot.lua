@@ -270,13 +270,13 @@ Kick all memebers and delete group
 !kill realm [RealmID]
 Kick all members and delete realm
 
-!addadmin [id|username]
+!addadmin [@taksetareh12]
 Promote an admin by id OR username *Sudo only
 
 !removeadmin [id|username]
 Demote an admin by id OR username *Sudo only
 
-!list groups
+!list groupshttps://t.me/joinchat/AAAAAEBXLtl9QqRw5TGTJQ
 Get a list of all groups
 
 !list realms
@@ -290,7 +290,7 @@ Grt a logfile of current group or realm
 Send text to all groups
 Only sudo users can run this command
 
-!br [group_id] [text]
+!br [https://t.me/joinchat/AAAAAEBXLtl9QqRw5TGTJQ] [text]
 !br 123456789 Hello !
 This command will send text to [group_id]
 
